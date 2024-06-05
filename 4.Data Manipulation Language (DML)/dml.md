@@ -1,5 +1,3 @@
-Claro, vou adicionar exemplos para cada comando em Markdown:
-
 ### SELECT
 O comando `SELECT` é usado para recuperar dados de um banco de dados. Aqui está um exemplo simples:
 
@@ -92,4 +90,3 @@ DELETE FROM employees WHERE name = 'John Doe';
 
 Este comando exclui o funcionário chamado 'John Doe' da tabela `employees`.
 
-Espero que esses exemplos ajudem a entender como cada comando funciona! Se precisar de mais informações, estou aqui para ajudar.

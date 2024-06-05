@@ -1,5 +1,3 @@
-Claro! Vamos criar um estudo completo em Markdown abordando os conceitos de `GROUP BY`, `HAVING` e funções de agregação `SUM`, `COUNT`, `AVG`, `MIN` e `MAX`.
-
 ## GROUP BY e HAVING
 
 ### Para que serve?
@@ -97,4 +95,3 @@ FROM sales;
 
 Neste exemplo, estamos encontrando o valor mínimo e máximo na coluna `amount`.
 
-Espero que este estudo ajude a entender e aplicar esses conceitos em consultas SQL! Se precisar de mais informações, estou aqui para ajudar.

@@ -45,5 +45,3 @@ A Linguagem de Definição de Dados (DDL) é um subconjunto do SQL. Sua função
     ```
 
 Lembre-se: Nas operações de DDL, as instruções COMMIT e ROLLBACK não podem ser executadas porque o mecanismo MySQL automaticamente confirma as alterações.
-
-Lembre-se de substituir nome_da_tabela, nome_da_coluna, tipo_de_dado(tamanho), nome_antiga_tabela e novo_nome_da_tabela nos exemplos acima pelos seus nomes reais de tabela, nomes de coluna, tipos e tamanhos de dados, e os nomes antigos ou novos da tabela que você deseja especificar.

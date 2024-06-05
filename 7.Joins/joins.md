@@ -1,5 +1,3 @@
-Vamos criar um estudo completo em Markdown abordando os diferentes tipos de joins em SQL, incluindo `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, `SELF JOIN` e `CROSS JOIN`.
-
 ## Joins em SQL
 
 ### Para que servem?
@@ -85,5 +83,3 @@ CROSS JOIN products;
 ```
 
 Neste exemplo, estamos combinando cada cliente com cada produto, resultando em todas as possíveis combinações.
-
-Espero que este estudo ajude a compreender e aplicar corretamente os diferentes tipos de joins em SQL! Se precisar de mais informações, estou aqui para ajudar.

@@ -56,5 +56,3 @@ As funções de data e tempo em SQL são usadas para manipular e formatar valore
      ```sql
      SELECT DATE_FORMAT('2024-05-27', '%W, %M %d, %Y') AS FormattedDate;
      ```
-
-Espero que este estudo completo sobre funções avançadas em SQL ajude a entender como utilizá-las de forma eficaz em suas consultas. Se precisar de mais informações ou exemplos, estou aqui para ajudar!

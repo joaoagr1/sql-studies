@@ -2,7 +2,6 @@
 
 O SQL emprega uma série de palavras-chave padrão que são essenciais para interagir com bancos de dados. As palavras-chave no SQL fornecem instruções sobre quais ações devem ser executadas.
 
-Aqui estão algumas das principais palavras-chave do SQL, com explicações detalhadas e exemplos:
 
 ## SELECT
 

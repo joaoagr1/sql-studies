@@ -1,5 +1,3 @@
-Claro! Vamos fazer um estudo completo sobre `VIEW` em SQL, explicando o que é, como usar, para que usar e fornecendo exemplos práticos.
-
 ## Estudo Completo sobre Views em SQL
 
 ### O que é uma View?
@@ -187,4 +185,3 @@ Resultado:
 
 Este exemplo mostra como podemos utilizar uma view para identificar funcionários com salários acima da média, simplificando uma consulta que, de outra forma, seria mais complexa.
 
-Espero que este estudo completo sobre views ajude a entender como e quando usá-las efetivamente em suas consultas SQL. Se precisar de mais informações ou exemplos, estou à disposição!

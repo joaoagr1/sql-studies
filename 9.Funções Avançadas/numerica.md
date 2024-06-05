@@ -1,5 +1,3 @@
-Vamos criar um estudo completo sobre funções avançadas em SQL, separando-as em categorias: funções numéricas, funções de string, funções condicionais e funções de data e tempo. Cada seção incluirá explicações e exemplos.
-
 ## Funções Avançadas em SQL
 
 ### Funções Numéricas

@@ -1,5 +1,3 @@
-Vamos criar um estudo completo em Markdown abordando os conceitos de restrições (constraints) em bancos de dados, incluindo chaves primárias, chaves estrangeiras, únicas, `NOT NULL`, e `CHECK`.
-
 ## Restrições (Constraints) em Bancos de Dados
 
 As restrições em um banco de dados garantem a integridade e a consistência dos dados armazenados. Elas são aplicadas a colunas individuais ou a combinações de colunas em uma tabela.
